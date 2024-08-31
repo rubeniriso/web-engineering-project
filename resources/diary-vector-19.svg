@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="844" viewBox="0 0 840 844">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #050505;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #7f7f7f;
+      }
+
+      .cls-3 {
+        fill: #f9d97b;
+      }
+
+      .cls-4 {
+        fill: #fdeab1;
+      }
+
+      .cls-5 {
+        fill: #666;
+      }
+    </style>
+  </defs>
+  <path id="Color_Fill_3" data-name="Color Fill 3" class="cls-1" d="M613,803H589q-0.5-28-1-56V42c6.026-2.233,17.237-1.051,25-1,1.942,5.334,1,15,1,22V778C611.892,780.346,612.914,797.99,613,803Z"/>
+  <path id="Color_Fill_2" data-name="Color Fill 2" class="cls-2" d="M589,41V779H251v-1c1.8-2.072,1-8.28,1-12V59c0-5.916.582-13.661-1-18H589Zm24,0h63q0.5,26.5,1,53V779H613V48h1V47h-1V41Z"/>
+  <path id="Color_Fill_1" data-name="Color Fill 1" class="cls-3" d="M101,42H251V778H114a76.044,76.044,0,0,0-1,13c3.609,1.314,9.884,1,15,1H588v11H102c-2.033-5.584-1-15.731-1-23V42ZM614,792h62v11H614V792Z"/>
+  <rect class="cls-4" x="676.094" y="116" width="57.906" height="118"/>
+  <rect class="cls-4" x="676.094" y="245" width="57.906" height="118"/>
+  <rect class="cls-5" x="349" y="176" width="223" height="115"/>
+</svg>

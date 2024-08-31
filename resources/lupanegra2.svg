@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="135" viewBox="27.5 27.5 135 135">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #252525;
+        stroke-width: 8.92px;
+      }
+
+      .cls-2 {
+        fill: #252525;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="79" cy="77" r="45"/>
+  <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-2" d="M106.9,108.4a7,7,0,0,1,9.9,0L157.1,148.7a7,7,0,0,1-9.9,9.9L106.9,118.3A7,7,0,0,1,106.9,108.4Z"/>
+  <path class="cls-2" d="M51.619,72.422l-1.237-4.845,47-12,1.237,4.845Z"/>
+  <path class="cls-2" d="M63.619,95.422l-1.237-4.845,47-12,1.236,4.845Z"/>
+  <path class="cls-2" d="M96.207,56.258l3.586,3.484-34,35-3.586-3.484Z"/>
+</svg>
